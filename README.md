@@ -1,2 +1,2 @@
 # letCode
-简单code联系
+简单code练习
